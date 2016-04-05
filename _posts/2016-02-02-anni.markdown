@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Anni"
+date:   2016-04-02 14:20:09 +0200
+categories: jekyll update
+
+---
+
+![Anni Albers](../assets/img/anni_albers_card_weaving_at_black_mountain_college.jpg)

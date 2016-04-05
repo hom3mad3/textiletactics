@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tensions"
+date:   2016-02-02 14:20:09 +0200
+categories: jekyll update
+images:
+
+ - url: /
+---
+"Just as individuated texts have become filaments of tangles webs, so the digital machines of the late twentieth century weave new networks from what were once isolated words, numbers, music, shapes, smells, tactile textures, architectures..." - Sadie Plant

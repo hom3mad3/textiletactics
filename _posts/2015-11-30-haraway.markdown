@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Haraway"
+date:   2015-11-30 18:47:05 +0200
+categories: jekyll update
+
+---
+![String Figure](../assets/img/stringfigure12.jpg)
