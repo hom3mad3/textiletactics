@@ -4,10 +4,4 @@ title: About
 permalink: /about/
 ---
 
-textile tactics
-
-a depository
-
-radical crafting
-
-explore and reappropriate the devalued feminised art form of CRAFTS as worthy of value and regard, as radical practice.
+textile tactics is a depository, a collection of references related to radical crafting my aim is to "explore and reappropriate the devalued feminised art form of CRAFTS as worthy of value and regard, as radical practice."
